@@ -10,7 +10,7 @@
     (rev "1.0")
     (company "SideraKB")
     (comment 1 "2U LShift Edition")
-    (comment 2 "Open source hardware, MIT license or CERN-OHL-P v2")
+    (comment 2 "Open source hardware, CERN-OHL-P v2")
   )
 
   (layers
