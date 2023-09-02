@@ -1,0 +1,4 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "ms-keyboard")(type "KiCad")(uri "${KIPRJMOD}/../ms-keyboard.kicad_sym")(options "")(descr ""))
+)
