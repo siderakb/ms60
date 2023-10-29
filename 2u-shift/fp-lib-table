@@ -1,0 +1,6 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "key-switches")(type "KiCad")(uri "${KIPRJMOD}/../key-switches.pretty")(options "")(descr ""))
+  (lib (name "ms-keyboard")(type "KiCad")(uri "${KIPRJMOD}/../ms-keyboard.pretty")(options "")(descr ""))
+  (lib (name "ms60")(type "KiCad")(uri "C:/Users/wk415/Dropbox/Projects/ms60/ms60.pretty")(options "")(descr ""))
+)
